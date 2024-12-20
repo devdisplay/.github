@@ -60,54 +60,54 @@
   <tr>
     <td align="center">
       <a href="https://www.microsoft.com/en-us/startups">
-        <img src="./profile/assets/SupportedBy/MicrosoftForStartups.png" alt="Microsoft for Startups Logo" width="140">
+        <img src="/profile/assets/SupportedBy/MicrosoftForStartups.png" alt="Microsoft for Startups Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://msme.gov.in/">
-        <img src="./profile/assets/SupportedBy/MSME.png" alt="MSME Logo" width="140">
+        <img src="/profile/assets/SupportedBy/MSME.png" alt="MSME Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://cloud.google.com/startup">
-        <img src="./profile/assets/SupportedBy/GoogleForStartups.png" alt="Google For Startups Logo" width="140">
+        <img src="/profile/assets/SupportedBy/GoogleForStartups.png" alt="Google For Startups Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://devdisplay.vercel.app/">
-        <img src="./profile/assets/SupportedBy/Vercel.png" alt="Vercel Logo" width="140">
+        <img src="/profile/assets/SupportedBy/Vercel.png" alt="Vercel Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://www.digitalocean.com/">
-        <img src="./profile/assets/SupportedBy/DigitalOcean.png" alt="Digital Ocean Logo" width="140">
+        <img src="/profile/assets/SupportedBy/DigitalOcean.png" alt="Digital Ocean Logo" width="140">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.producthunt.com/products/devdisplay">
-        <img src="./profile/assets/SupportedBy/ProductHunt.png" alt="Product Hunt Logo" width="140">
+        <img src="/profile/assets/SupportedBy/ProductHunt.png" alt="Product Hunt Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://www.gitbook.com/">
-        <img src="./profile/assets/SupportedBy/GitBookLight_1.png" alt="GitBook Logo" width="140">
+        <img src="/profile/assets/SupportedBy/GitBookLight_1.png" alt="GitBook Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/devdisplay/DevDisplay">
-        <img src="./profile/assets/SupportedBy/meltcd.png" alt="Meltcd Logo" width="140">
+        <img src="/profile/assets/SupportedBy/meltcd.png" alt="Meltcd Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://www.notion.so/startups">
-        <img src="./profile/assets/SupportedBy/Notion.png" alt="Notion Logo" width="140">
+        <img src="/profile/assets/SupportedBy/Notion.png" alt="Notion Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://peerlist.io/">
-        <img src="./profile/assets/SupportedBy/Peerlist.png" alt="Peerlist Logo" width="140">
+        <img src="/profile/assets/SupportedBy/Peerlist.png" alt="Peerlist Logo" width="140">
       </a>
     </td>
   </tr>
@@ -127,11 +127,11 @@
 <table align="center">
      <thead>
          <tr>
-            <td><img src="./profile/assets/SocialLogo/GitHub.png" alt="Discord Logo" width="50"></td>
-            <td><img src="./profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
-            <td><img src="./profile/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
-            <td><img src="./profile/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
-            <td><img src="./profile/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/GitHub.png" alt="Discord Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
         </tr>
     </thead>
      <tbody align="center">
@@ -147,7 +147,7 @@
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /> DevDisplay Contributor Badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /></h1>
 
-| <img src="./profile/assets/DevBadges/DevPioneer.png"> | <img src="./profile/assets/DevBadges/DevEnhancer.png"> | <img src="./profile/assets/DevBadges/DevInnovator.png"> |
+| <img src="/profile/assets/DevBadges/DevPioneer.png"> | <img src="/profile/assets/DevBadges/DevEnhancer.png"> | <img src="/profile/assets/DevBadges/DevInnovator.png"> |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 </div>
 
@@ -241,37 +241,37 @@
       <th>Program Description</th>
    </tr>
    <tr>
-      <td><img src="./profile/assets/FeaturedIn/GSSOC.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
+      <td><img src="/profile/assets/FeaturedIn/GSSOC.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
       <td><a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a></td>
       <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
    </tr>
    <tr>
-      <td><img src="./profile/assets/FeaturedIn/SWOC.jpg" width="200" height="auto" loading="lazy" alt="swoc"/></td>
+      <td><img src="/profile/assets/FeaturedIn/SWOC.jpg" width="200" height="auto" loading="lazy" alt="swoc"/></td>
       <td><a href="https://www.socialwinterofcode.com/">Social Winter of Code</a></td>
       <td>Social Winter Of Code is the 2 month long open source program by Social India , with the aim to introduce more and more people to the world of Open source.</td>
    </tr>
    <tr>
-      <td><img src="./profile/assets/FeaturedIn/ieeeIGDTUW.jpg" width="200" height="auto" loading="lazy" alt="IEEE IGDTUW"/></td>
+      <td><img src="/profile/assets/FeaturedIn/ieeeIGDTUW.jpg" width="200" height="auto" loading="lazy" alt="IEEE IGDTUW"/></td>
       <td><a href="https://ieee-igdtuw.github.io/IEEE-IGDTUW-Official-Website/">IEEE IGDTUW Open Source Week</a></td>
       <td>IEEE IGDTUW Open Source Week is a week-long event aimed at fostering collaboration and skill-building in open-source. Participants can work on impactful projects, learn version control, and gain real-world experience while contributing to open-source communities.</td>
     </tr>
     <tr>
-      <td><img src="./profile/assets/FeaturedIn/HACKTOBERFEST.jpg" width="200" height="auto" loading="lazy" alt="Hacktoberfest"/></td>
+      <td><img src="/profile/assets/FeaturedIn/HACKTOBERFEST.jpg" width="200" height="auto" loading="lazy" alt="Hacktoberfest"/></td>
       <td><a href="https://hacktoberfest.com/">Hacktoberfest</a></td>
       <td>Hacktoberfest is a month-long virtual event that celebrates open-source software and encourages people to contribute to open-source projects</td>
    </tr>
    <tr>
-      <td><img src="./profile/assets/FeaturedIn/TublianOS.jpg" width="200" height="auto" loading="lazy" alt="tublian"/></td>
+      <td><img src="/profile/assets/FeaturedIn/TublianOS.jpg" width="200" height="auto" loading="lazy" alt="tublian"/></td>
       <td><a href="https://www.tublian.com/internship">Tublian</a></td>
       <td>Tublian open source internship program lets software developers get real open source experience by collaborating with major open source projects.</td>
    </tr>
    <tr>
-      <td><img src="./profile/assets/FeaturedIn/iwoc.png" width="200" height="auto" loading="lazy" alt="iwoc"/></td>
+      <td><img src="/profile/assets/FeaturedIn/iwoc.png" width="200" height="auto" loading="lazy" alt="iwoc"/></td>
       <td><a href="https://iwoc.codes/">Innogeeks Winter of Code</a></td>
       <td>Innogeeks Winter of Code is a month-long open-source program envisioned by the Innogeeks. It is an online initiative that introduces new contributors to open-source software development.</td>
    </tr>
       <tr>
-      <td><img src="./profile/assets/FeaturedIn/KWOC.jpg" width="200" height="auto" loading="lazy" alt="kwoc"/></td>
+      <td><img src="/profile/assets/FeaturedIn/KWOC.jpg" width="200" height="auto" loading="lazy" alt="kwoc"/></td>
       <td><a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code</a></td>
       <td>Kharagpur Winter of Code is a 5-week long online program for students who are new to open source software development. The program not only helps students to get involved in open source, but also prepares them for many open source summer programs.</td>
    </tr>
