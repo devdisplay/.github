@@ -129,7 +129,7 @@
          <tr>
             <td><img src="/profile/assets/SocialLogo/GitHub.png" alt="Discord Logo" width="50"></td>
             <td><img src="/profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
-            <td><img src="./profile/assets/SocialLogo/WhatsApp.png" alt="WhatsApp Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/WhatsApp.png" alt="WhatsApp Logo" width="50"></td>
             <td><img src="/profile/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
             <td><img src="/profile/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
             <td><img src="/profile/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
