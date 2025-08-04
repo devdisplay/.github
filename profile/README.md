@@ -7,7 +7,7 @@
 
 <h2 align="center"> Connect ▸ Collab ▸ Code ▸ Create ▸ Conquer </h2>
 
-<img align="center" src="./public/star.png" width="150px" />
+<img align="center" src="/profile/assets/star.png" width="150px" />
 </div>
 
 <div align="center">
@@ -78,18 +78,18 @@
 </div>
 
 <div align="center">
-<img align="center" src="./public/star.png" width="150px" />
+<img align="center" src="/profile/assets/star.png" width="150px" />
   <h1>Connect with DevDisplay Organization <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Raising%20Hands.webp" alt="Raising Hands" width="25" height="25" /></h1>
 </div>
 <table align="center">
      <thead>
          <tr>
-            <td><img src="./public/assets/SocialLogo/GitHub.png" alt="GitHub Logo" width="50"></td>
-            <td><img src="./public/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/GitHub.png" alt="GitHub Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
            <!-- <td><img src="./public/assets/SocialLogo/WhatsApp.png" alt="WhatsApp Logo" width="50"></td> -->
-            <td><img src="./public/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
-            <td><img src="./public/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
-            <td><img src="./public/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
         </tr>
     </thead>
      <tbody align="center">
@@ -106,7 +106,7 @@
 
 
 <div align="center">
-     <img align="center" src="./public/star.png" width="150px" />
+     <img align="center" src="/profile/assets/star.png" width="150px" />
 <h1 align="center">Contribute to DevDisplay! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h1>
 <h4 align="center">Leave Your Legacy. Record Your Name in Open Source History! Let's Contribute. Collaborate. Conquer.</h4>
 
@@ -125,7 +125,7 @@
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /> DevDisplay Contributor Badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /></h1>
 
-| <img src="./public/assets/DevBadges/DevPioneerpng.gif"> | <img src="./public/assets/DevBadges/DevEnhancerpng.gif"> | <img src="./public/assets/DevBadges/DevInnovatorpng.gif"> |
+| <img src="/profile/assets/DevBadges/DevPioneerpng.gif"> | <img src="/profile/assets/DevBadges/DevEnhancerpng.gif"> | <img src="/profile/assets/DevBadges/DevInnovatorpng.gif"> |
 | ------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
 
 </div>
@@ -150,7 +150,7 @@
   <em>(Lead with creativity by implementing new ideas in DevDisplay.)</em>
 </p>
 
-<div align="center"><img align="center" src="./public/star.png" width="150px" /></div>
+<div align="center"><img align="center" src="/profile/assets/star.png" width="150px" /></div>
 
 <h1 align="center">Featured in <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /></h1>
 <table>
@@ -161,55 +161,43 @@
       <th>Program Description</th>
    </tr>
    <tr>
-      <td><img src="./public/assets/FeaturedIn/GSSOC.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
+      <td><img src="/profile/assets/FeaturedIn/GSSOC.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
       <td><a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a></td>
       <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
    </tr>
    <tr>
-      <td><img src="./public/assets/FeaturedIn/SWOC.jpg" width="200" height="auto" loading="lazy" alt="swoc"/></td>
+      <td><img src="/profile/assets/FeaturedIn/SWOC.jpg" width="200" height="auto" loading="lazy" alt="swoc"/></td>
       <td><a href="https://www.socialwinterofcode.com/">Social Winter of Code</a></td>
       <td>Social Winter Of Code is the 2 month long open source program by Social India , with the aim to introduce more and more people to the world of Open source.</td>
    </tr>
    <tr>
-      <td><img src="./public/assets/FeaturedIn/ieeeIGDTUW.jpg" width="200" height="auto" loading="lazy" alt="IEEE IGDTUW"/></td>
+      <td><img src="/profile/assets/FeaturedIn/ieeeIGDTUW.jpg" width="200" height="auto" loading="lazy" alt="IEEE IGDTUW"/></td>
       <td><a href="https://ieee-igdtuw.github.io/IEEE-IGDTUW-Official-Website/">IEEE IGDTUW Open Source Week</a></td>
       <td>IEEE IGDTUW Open Source Week is a week-long event aimed at fostering collaboration and skill-building in open-source. Participants can work on impactful projects, learn version control, and gain real-world experience while contributing to open-source communities.</td>
     </tr>
     <tr>
-      <td><img src="./public/assets/FeaturedIn/HACKTOBERFEST.jpg" width="200" height="auto" loading="lazy" alt="Hacktoberfest"/></td>
+      <td><img src="/profile/assets/FeaturedIn/HACKTOBERFEST.jpg" width="200" height="auto" loading="lazy" alt="Hacktoberfest"/></td>
       <td><a href="https://hacktoberfest.com/">Hacktoberfest</a></td>
       <td>Hacktoberfest is a month-long virtual event that celebrates open-source software and encourages people to contribute to open-source projects</td>
    </tr>
    <tr>
-      <td><img src="./public/assets/FeaturedIn/TublianOS.jpg" width="200" height="auto" loading="lazy" alt="tublian"/></td>
+      <td><img src="/profile/assets/FeaturedIn/TublianOS.jpg" width="200" height="auto" loading="lazy" alt="tublian"/></td>
       <td><a href="https://www.tublian.com/internship">Tublian</a></td>
       <td>Tublian open source internship program lets software developers get real open source experience by collaborating with major open source projects.</td>
    </tr>
    <tr>
-      <td><img src="./public/assets/FeaturedIn/iwoc.png" width="200" height="auto" loading="lazy" alt="iwoc"/></td>
+      <td><img src="/profile/assets/FeaturedIn/iwoc.png" width="200" height="auto" loading="lazy" alt="iwoc"/></td>
       <td><a href="https://iwoc.codes/">Innogeeks Winter of Code</a></td>
       <td>Innogeeks Winter of Code is a month-long open-source program envisioned by the Innogeeks. It is an online initiative that introduces new contributors to open-source software development.</td>
    </tr>
       <tr>
-      <td><img src="./public/assets/FeaturedIn/KWOC.jpg" width="200" height="auto" loading="lazy" alt="kwoc"/></td>
+      <td><img src="/profile/assets/FeaturedIn/KWOC.jpg" width="200" height="auto" loading="lazy" alt="kwoc"/></td>
       <td><a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code</a></td>
       <td>Kharagpur Winter of Code is a 5-week long online program for students who are new to open source software development. The program not only helps students to get involved in open source, but also prepares them for many open source summer programs.</td>
    </tr>
 </table>
 
-<div align="center"><img align="center" src="./public/star.png" width="150px" /></div><br>
-
-<table align="center">
-  <tr>
-     <td>
-       <p align="center"> <img src="https://github.com/malivinayak/malivinayak/blob/main/LICENSE-Logo/MIT.png?raw=true" width="80%"></img>
-    </td>
-    <td> 
-      <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/> <br> 
-This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
-    </td>
-  </tr>
-</table>
+<div align="center"><img align="center" src="/profile/assets/star.png" width="150px" /></div><br>
 
 <div align="center">
     <a href="#top">
