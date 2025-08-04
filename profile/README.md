@@ -7,6 +7,9 @@
 
 <h2 align="center"> Connect ▸ Collab ▸ Code ▸ Create ▸ Conquer </h2>
 
+  <a href="https://github.com/codeaashu/DevDisplay">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Contribution Repository">
+  </a><br>
 <img align="center" src="/profile/assets/star.png" width="150px" />
 </div>
 
