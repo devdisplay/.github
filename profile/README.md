@@ -133,7 +133,49 @@
 
 </div>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> How to Earn These Badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /></h2>
+<details align="center">
+  <summary>
+    <h2 align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+      How to Earn These Badges
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+    </h2>
+  </summary>
+
+  <br>
+
+  <p align="center">
+    <strong>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
+      Dev Pioneer
+    </strong><br>
+    Add your profile to the DevDisplay platform.<br>
+    <em>(Join the community by submitting a PR with your details.)</em>
+  </p>
+
+  <p align="center">
+    <strong>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" />
+      Dev Enhancer
+    </strong><br>
+    Improve or refine existing features.<br>
+    <em>(Submit a meaningful Pull Request that enhances the platform.)</em>
+  </p>
+
+  <p align="center">
+    <strong>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" />
+      Dev Innovator
+    </strong><br>
+    Propose and add innovative, creative features.<br>
+    <em>(Lead with creativity by implementing new ideas in DevDisplay.)</em>
+  </p>
+
+  <br>
+</details>
+
+
+<!--<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> How to Earn These Badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /></h2>
 
 <p align="center">
   <strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Dev Pioneer</strong><br>
@@ -151,7 +193,7 @@
   <strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> Dev Innovator</strong><br>
   Propose and add innovative, creative features.<br>
   <em>(Lead with creativity by implementing new ideas in DevDisplay.)</em>
-</p>
+</p>-->
 
 <div align="center"><img align="center" src="/profile/assets/star.png" width="150px" /></div>
 
