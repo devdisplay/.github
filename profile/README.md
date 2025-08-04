@@ -1,31 +1,7 @@
 <div align="center">
-<!-- <table align="center">
-     <thead align="center">
-        <tr border: 2px;>
-            <td><b>🌟 Stars</b></td>
-            <td><b>💌 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-            <td><b>🌐 Contributors</b></td>
-        </tr>
-     </thead>
-     <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/codeaashu/DevDisplay?style=flat&color=black&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/codeaashu/DevDisplay?style=flat&color=black&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/codeaashu/DevDisplay?style=flat&color=black&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/codeaashu/DevDisplay?style=flat&color=black&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/codeaashu/DevDisplay?style=flat&color=black&logo=github"/></td>
-           <td><img alt="Contributors" src="https://img.shields.io/github/contributors/codeaashu/DevDisplay?style=flat&color=black&logo=github"/></td>
-        </tr>
-    </tbody>
-</table><br> -->
 
-  <!-- <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> Paradise For Developers <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /></h1> -->
-
-<a href="https://www.devdisplay.org/"><img src="./public/assets/DevDisplayLOGO/NameTagline.png" width="300px" /></a><br>
-<a href="https://www.devdisplay.org/"><img src="./public/DDColorLOGO.png" width="500px" /></a><br>
+<a href="https://www.devdisplay.org/"><img src="/profile/assets/NameTagline.png" width="300px" /></a><br>
+<a href="https://www.devdisplay.org/"><img src="/profile/assets/DDColorLOGO.png" width="500px" /></a><br>
 
 `The First Global Platform for Developers to Fulfill All Their Tech Needs.`<br>
 
@@ -40,54 +16,54 @@
   <tr>
     <td align="center">
       <a href="https://www.microsoft.com/en-us/startups">
-        <img src="./public/assets/SupportedBy/MicrosoftForStartups.png" alt="Microsoft for Startups Logo" width="140">
+        <img src="/profile/assets/SupportedBy/MicrosoftForStartups.png" alt="Microsoft for Startups Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://msme.gov.in/">
-        <img src="./public/assets/SupportedBy/MSME.png" alt="MSME Logo" width="140">
+        <img src="/profile/assets/SupportedBy/MSME.png" alt="MSME Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://cloud.google.com/startup">
-        <img src="./public/assets/SupportedBy/GoogleForStartups.png" alt="Google For Startups Logo" width="140">
+        <img src="/profile/assets/SupportedBy/GoogleForStartups.png" alt="Google For Startups Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://devdisplay.vercel.app/">
-        <img src="./public/assets/SupportedBy/Vercel.png" alt="Vercel Logo" width="140">
+        <img src="/profile/assets/SupportedBy/Vercel.png" alt="Vercel Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://www.digitalocean.com/">
-        <img src="./public/assets/SupportedBy/DigitalOcean.png" alt="Digital Ocean Logo" width="140">
+        <img src="/profile/assets/SupportedBy/DigitalOcean.png" alt="Digital Ocean Logo" width="140">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.producthunt.com/products/devdisplay">
-        <img src="./public/assets/SupportedBy/ProductHunt.png" alt="Product Hunt Logo" width="140">
+        <img src="/profile/assets/SupportedBy/ProductHunt.png" alt="Product Hunt Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://www.gitbook.com/">
-        <img src="./public/assets/SupportedBy/GitBook.png" alt="GitBook Logo" width="140">
+        <img src="/profile/assets/SupportedBy/GitBook.png" alt="GitBook Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/devdisplay/DevDisplay">
-        <img src="./public/assets/SupportedBy/meltcd.png" alt="Meltcd Logo" width="140">
+        <img src="/profile/assets/SupportedBy/meltcd.png" alt="Meltcd Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://www.notion.so/startups">
-        <img src="./public/assets/SupportedBy/Notion.png" alt="Notion Logo" width="140">
+        <img src="/profile/assets/SupportedBy/Notion.png" alt="Notion Logo" width="140">
       </a>
     </td>
     <td align="center">
       <a href="https://peerlist.io/">
-        <img src="./public/assets/SupportedBy/Peerlist.png" alt="Peerlist Logo" width="140">
+        <img src="/profile/assets/SupportedBy/Peerlist.png" alt="Peerlist Logo" width="140">
       </a>
     </td>
   </tr>
